@@ -1,0 +1,7 @@
+Person Frist Name : maxamed
+Person Last Name : ibraahim
+Person Last Email : moshibbin@gmail.com
+Question  1Where are you located? : Hargeisa,Somaliland
+Question  2What is your zip code? : +252
+Question  3What is your job title? : Software Dev
+
